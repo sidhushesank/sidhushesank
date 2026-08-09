@@ -1,21 +1,271 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>A credit-card fraud detection project (ML + Flask), a Hospital Appointment System (Next.js), and a fan-made Assassin’s Creed game using Unity.<br><br>👯 I’m looking to collaborate on<br>Machine Learning projects, Data Engineering pipelines, and any exciting React/Next.js or full-stack work.<br><br>🤝 I’m looking for help with<br>Improving ML model accuracy, building scalable cloud architectures on AWS, and designing optimized backend systems.<br><br>🌱 I’m currently learning<br>AWS Cloud, Data Engineering workflows, Python for analytics, and Unity for game development.<br><br>💬 Ask me about<br>Python, Machine Learning, SQL, Flask, React/Next.js, Cloud concepts, or how to build real-world student consultancy websites.<br><br>⚡ Fun fact<br>I balance tech learning with sports — my dream is to represent the nation in badminton someday!
+<div align="center">
 
+# Sheshank Sidheshwar
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sheshank20038) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheshank-sidheshwar-b84166252) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sheshank Sidheshwar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sheshank Sideshwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidhusheshank@gmail.com) 
+### I don't chase ideas.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sidhushesank&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sidhushesank&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhushesank&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### I chase problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sidhushesank&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Product Builder • Backend Engineer • Systems Thinker**
+
+*"The world doesn't need another software engineer.*
+
+*It needs people who notice problems others stop seeing."*
+
+</div>
+
+---
+
+## There are two kinds of builders.
+
+The first asks,
+
+> **"What can I build with this technology?"**
+
+The second asks,
+
+> **"What problem deserves better software?"**
+
+I belong to the second group.
+
+I rarely start with a framework.
+
+I start with friction.
+
+A confusing process.
+
+A broken workflow.
+
+An overlooked opportunity.
+
+A question that keeps repeating in my head until I finally decide to build something about it.
+
+Every repository here exists because I couldn't ignore one of those questions.
+
+---
+
+# The way I think
+
+Most people see software.
+
+I see systems.
+
+I enjoy understanding **why** something works before deciding **how** to build it.
+
+I spend more time questioning assumptions than choosing frameworks.
+
+Because good software isn't created by writing more code.
+
+It's created by removing unnecessary complexity.
+
+Technology changes every few years.
+
+Human problems don't.
+
+That's where I prefer spending my time.
+
+---
+
+# What I'm Building
+
+These aren't side projects.
+
+They're ideas that refused to stay ideas.
+
+---
+
+## 💎 ESOP Value Clarity
+
+> **Making startup equity understandable.**
+
+Most employees receive ESOPs without truly understanding what they're worth.
+
+This product exists to bring clarity to ownership, vesting, dilution and long-term value.
+
+Because financial decisions deserve transparency.
+
+---
+
+## 📈 Predictly Markets *(In Progress)*
+
+> **Helping people understand markets instead of overwhelming them.**
+
+The internet has enough dashboards.
+
+I want to build software that answers better questions.
+
+---
+
+## ⚖️ Ethical Dowry Analyser
+
+> **Using technology to explore uncomfortable social questions.**
+
+Some problems aren't technical.
+
+They're human.
+
+That doesn't mean software can't help people think differently about them.
+
+---
+
+## 💬 Confession App
+
+> **Anonymous conversations with privacy at the center.**
+
+Sometimes the simplest products solve the biggest emotional problems.
+
+---
+
+## 💰 ChitFund OS
+
+> **Building better software for businesses that are usually overlooked.**
+
+Not every meaningful product has millions of users.
+
+Sometimes helping one industry work better creates more impact than building another social platform.
+
+---
+
+# Patterns You'll Notice
+
+If you look through my repositories, you'll probably notice something.
+
+I don't build projects to demonstrate technologies.
+
+I build products around questions.
+
+Questions like...
+
+> Why is startup equity still confusing?
+
+> Why should financial research feel difficult?
+
+> Why can't business software be simpler?
+
+> Why are people forced to accept inefficient systems?
+
+Those questions become products.
+
+Those products become repositories.
+
+---
+
+# What Interests Me
+
+Not industries.
+
+Problems.
+
+Especially those involving
+
+- Financial Technology
+- Artificial Intelligence
+- Backend Systems
+- Business Infrastructure
+- Productivity
+- Healthcare
+- Developer Tools
+- Software that quietly improves everyday life
+
+---
+
+# Technologies
+
+Technology is never the destination.
+
+Only the tool.
+
+Still...
+
+These are the tools I currently enjoy building with.
+
+### Languages
+
+Python • Java • TypeScript • JavaScript • SQL • C++
+
+### Backend
+
+Spring Boot • Flask • REST APIs • Node.js
+
+### Frontend
+
+React • Next.js • Tailwind CSS
+
+### Databases
+
+PostgreSQL • MySQL • Supabase
+
+### Infrastructure
+
+Git • Docker • Vercel
+
+---
+
+# My Philosophy
+
+I don't believe software should exist because we can build it.
+
+It should exist because someone benefits from it.
+
+If a product doesn't improve someone's life, save someone's time or remove someone's confusion...
+
+then technology alone isn't enough.
+
+I want my work to be remembered not because it was technically impressive...
+
+but because it quietly became useful.
+
+---
+
+# Beyond Code
+
+Outside programming you'll usually find me thinking about
+
+- startup ecosystems
+- product strategy
+- behavioural psychology
+- systems thinking
+- business models
+- innovation
+
+Because products aren't built inside IDEs.
+
+They're built by understanding people first.
+
+---
+
+# Current Mission
+
+I'm working toward becoming the kind of engineer whose value isn't measured by the number of frameworks learned...
+
+but by the quality of problems solved.
+
+Not chasing trends.
+
+Not chasing titles.
+
+Building software that deserves to exist.
+
+---
+
+<div align="center">
+
+## If you've made it this far...
+
+Thank you.
+
+Every repository here represents a question I cared enough to explore.
+
+Maybe one of them solves a problem you've been thinking about too.
+
+---
+
+### **"Ideas are everywhere.**
+
+### **Understanding the right problem is rare."**
+
+⭐ Welcome to my journey.
+
+</div>
