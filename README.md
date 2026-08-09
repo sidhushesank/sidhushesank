@@ -2,184 +2,152 @@
 
 # Sheshank Sidheshwar
 
-### I don't chase ideas.
+### Product Builder
 
-### I chase problems.
+I don't build projects to practice programming.
+
+I build products to challenge problems that people quietly accept.
 
 ---
 
-**Product Builder • Backend Engineer • Systems Thinker**
-
-*"The world doesn't need another software engineer.*
-
-*It needs people who notice problems others stop seeing."*
+*"Every repository started with a question."*
 
 </div>
 
 ---
 
-## There are two kinds of builders.
+# Who I Am
 
-The first asks,
+Most software begins with an idea.
 
-> **"What can I build with this technology?"**
-
-The second asks,
-
-> **"What problem deserves better software?"**
-
-I belong to the second group.
-
-I rarely start with a framework.
-
-I start with friction.
+Mine usually begins with frustration.
 
 A confusing process.
 
-A broken workflow.
+An outdated workflow.
 
-An overlooked opportunity.
+A problem everyone has accepted.
 
-A question that keeps repeating in my head until I finally decide to build something about it.
+I enjoy finding those moments and asking:
 
-Every repository here exists because I couldn't ignore one of those questions.
+> **"If we were building this today, would we build it this way?"**
 
----
+If the answer is **no**, I start designing.
 
-# The way I think
+Not because I enjoy writing code.
 
-Most people see software.
+Because I enjoy removing unnecessary complexity.
 
-I see systems.
+That's the reason this GitHub exists.
 
-I enjoy understanding **why** something works before deciding **how** to build it.
+Not to collect repositories.
 
-I spend more time questioning assumptions than choosing frameworks.
-
-Because good software isn't created by writing more code.
-
-It's created by removing unnecessary complexity.
-
-Technology changes every few years.
-
-Human problems don't.
-
-That's where I prefer spending my time.
+To document problems that became products.
 
 ---
 
-# What I'm Building
+# What Defines My Work
 
-These aren't side projects.
+You'll notice a pattern if you explore my repositories.
 
-They're ideas that refused to stay ideas.
+I don't build around technologies.
+
+I build around questions.
+
+Questions like:
+
+- Why is startup equity still difficult to understand?
+- Why should market research overwhelm instead of guide?
+- Can software encourage better conversations around social issues?
+- Why are traditional businesses still forced to use outdated tools?
+
+Those questions eventually became software.
 
 ---
+
+# Featured Products
 
 ## 💎 ESOP Value Clarity
 
-> **Making startup equity understandable.**
+A platform designed to help startup employees understand the true value of their equity through vesting simulations, ownership insights and financial clarity.
 
-Most employees receive ESOPs without truly understanding what they're worth.
-
-This product exists to bring clarity to ownership, vesting, dilution and long-term value.
-
-Because financial decisions deserve transparency.
+> **Problem:** Equity is valuable only when people understand it.
 
 ---
 
-## 📈 Predictly Markets *(In Progress)*
+## 📈 Predictly Markets *(Work in Progress)*
 
-> **Helping people understand markets instead of overwhelming them.**
+An AI-assisted market intelligence platform focused on helping people understand markets instead of drowning them in data.
 
-The internet has enough dashboards.
-
-I want to build software that answers better questions.
+> **Problem:** Better decisions come from better understanding—not more information.
 
 ---
 
 ## ⚖️ Ethical Dowry Analyser
 
-> **Using technology to explore uncomfortable social questions.**
+A product exploring whether technology can encourage more thoughtful conversations around a deeply rooted social issue.
 
-Some problems aren't technical.
-
-They're human.
-
-That doesn't mean software can't help people think differently about them.
+> **Problem:** Some challenges deserve analysis, not assumptions.
 
 ---
 
 ## 💬 Confession App
 
-> **Anonymous conversations with privacy at the center.**
+An anonymous communication platform designed around simplicity, privacy and honest expression.
 
-Sometimes the simplest products solve the biggest emotional problems.
+> **Problem:** People often need a safe space more than another social network.
 
 ---
 
 ## 💰 ChitFund OS
 
-> **Building better software for businesses that are usually overlooked.**
+Software designed to modernize the day-to-day operations of traditional chit fund businesses.
 
-Not every meaningful product has millions of users.
-
-Sometimes helping one industry work better creates more impact than building another social platform.
+> **Problem:** Reliable businesses deserve modern tools too.
 
 ---
 
-# Patterns You'll Notice
+# My Approach
 
-If you look through my repositories, you'll probably notice something.
+Every project follows the same path.
 
-I don't build projects to demonstrate technologies.
+```
+Observe
 
-I build products around questions.
+↓
 
-Questions like...
+Question
 
-> Why is startup equity still confusing?
+↓
 
-> Why should financial research feel difficult?
+Understand
 
-> Why can't business software be simpler?
+↓
 
-> Why are people forced to accept inefficient systems?
+Design
 
-Those questions become products.
+↓
 
-Those products become repositories.
+Build
 
----
+↓
 
-# What Interests Me
+Refine
 
-Not industries.
+↓
 
-Problems.
+Ship
+```
 
-Especially those involving
+I don't believe software becomes valuable because it's technically impressive.
 
-- Financial Technology
-- Artificial Intelligence
-- Backend Systems
-- Business Infrastructure
-- Productivity
-- Healthcare
-- Developer Tools
-- Software that quietly improves everyday life
+It becomes valuable when people stop noticing the complexity it removed.
 
 ---
 
 # Technologies
 
-Technology is never the destination.
-
-Only the tool.
-
-Still...
-
-These are the tools I currently enjoy building with.
+These are tools—not identity.
 
 ### Languages
 
@@ -197,75 +165,52 @@ React • Next.js • Tailwind CSS
 
 PostgreSQL • MySQL • Supabase
 
-### Infrastructure
+### Tools
 
-Git • Docker • Vercel
-
----
-
-# My Philosophy
-
-I don't believe software should exist because we can build it.
-
-It should exist because someone benefits from it.
-
-If a product doesn't improve someone's life, save someone's time or remove someone's confusion...
-
-then technology alone isn't enough.
-
-I want my work to be remembered not because it was technically impressive...
-
-but because it quietly became useful.
+Git • Docker • Vercel • Postman
 
 ---
 
-# Beyond Code
+# What I'm Interested In
 
-Outside programming you'll usually find me thinking about
-
-- startup ecosystems
-- product strategy
-- behavioural psychology
-- systems thinking
-- business models
-- innovation
-
-Because products aren't built inside IDEs.
-
-They're built by understanding people first.
+- Product Engineering
+- Backend Systems
+- Artificial Intelligence
+- Financial Technology
+- Business Software
+- Developer Tools
+- Human-Centered Design
 
 ---
 
-# Current Mission
+# Current Direction
 
-I'm working toward becoming the kind of engineer whose value isn't measured by the number of frameworks learned...
+I'm working toward becoming someone who isn't remembered for knowing the newest framework.
 
-but by the quality of problems solved.
+I want to be remembered for recognizing meaningful problems early and building software that makes those problems simpler.
 
-Not chasing trends.
+If my work becomes genuinely useful, the technologies behind it won't be the most interesting part.
 
-Not chasing titles.
-
-Building software that deserves to exist.
+The impact will be.
 
 ---
 
 <div align="center">
 
-## If you've made it this far...
+## If you've reached this point...
 
 Thank you.
 
-Every repository here represents a question I cared enough to explore.
+Everything here began as curiosity.
 
-Maybe one of them solves a problem you've been thinking about too.
+Everything here became code.
+
+The next repository is already starting with another question.
 
 ---
 
-### **"Ideas are everywhere.**
+**Build with purpose.**
 
-### **Understanding the right problem is rare."**
-
-⭐ Welcome to my journey.
+**Solve real problems.**
 
 </div>
