@@ -1,221 +1,242 @@
-````markdown
 <div align="center">
 
 # Sheshank Sidheshwar 👋
 
 ### Founder · Product Builder · Software Engineer
 
-I build products around problems that are easy to ignore  
-until someone decides they shouldn't be.
+I build products around problems that people have quietly learned to live with.
 
 <br />
 
 <a href="https://esop-value-clarity.vercel.app/">
 <img src="https://img.shields.io/badge/🚀_ESOP_Value_Clarity-Live-111827?style=for-the-badge" />
 </a>
-<a href="https://github.com/sidhushesank">
-<img src="https://img.shields.io/badge/GitHub-@sidhushesank-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/sheshank-sidheshwar/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://x.com/SheshankSi60747">
-<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-@SheshankSi60747-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <br /><br />
 
-> **I don't want to build more software.**
+> **I don't build software just to use technology.**
 >
-> **I want to build software that makes something unnecessarily difficult feel simple.**
+> **I build when I see something that could be made meaningfully simpler.**
 
 </div>
 
 ---
 
-# What I'm Building
+# 👋 About Me
 
-I'm a founder and product builder interested in **fintech, AI, business software, and products that turn messy real-world problems into simple experiences.**
+I'm a **founder and product builder** interested in fintech, AI, business software, and products that turn complicated real-world problems into experiences people can actually understand.
 
-I usually start with a question rather than a technology.
+Most of my ideas begin with frustration.
 
-Something feels unnecessarily complicated.
+A confusing process.
 
-People have accepted it as normal.
+A broken workflow.
 
-There is probably a better way.
+A problem people have accepted as "just how things work."
 
-So I build.
+And usually, one question:
 
-My current focus is **ESOP Value Clarity** — a fintech SaaS product helping startup employees understand what their equity could actually mean.
+> **Could this be built better today?**
+
+If the answer is yes, I start building.
+
+I enjoy working across the entire product — from the original idea and product thinking to design, engineering, deployment, and getting the product into the hands of real people.
+
+I'm less interested in collecting technologies.
+
+I'm more interested in **building things that deserve to exist.**
 
 ---
 
-# 🚀 ESOP Value Clarity
+# 🚀 What I'm Building
+
+## ESOP Value Clarity
 
 ### Startup equity has a number. Understanding what that number could mean is the hard part.
 
-**ESOP Value Clarity** is a fintech SaaS product built to help startup employees understand, model, and make better decisions around their equity.
+**ESOP Value Clarity** is my current product — a fintech SaaS platform built to help startup employees understand what their equity could actually mean financially.
 
-A compensation letter can tell you:
+A compensation letter might say:
 
-> **"You have 10,000 ESOPs."**
+**10,000 ESOPs**
 
-But it doesn't necessarily tell you:
+But that number alone doesn't answer the questions employees actually care about.
 
-- How much has actually vested?
-- What could the equity be worth at different valuations?
-- How might dilution change the outcome?
-- What could happen across different exit scenarios?
-- What might estimated tax impact look like?
-- How do different scenarios compare?
-- Is the equity meaningful enough to influence a career decision?
+How much has vested?
+
+What could it be worth?
+
+How does dilution affect it?
+
+What happens at different company valuations?
+
+What might different exit scenarios look like?
+
+What could estimated tax impact do to the outcome?
+
+And ultimately:
+
+> **Is this equity actually meaningful to me?**
 
 That's the problem I'm building around.
 
-### The product connects
+### The product
 
-```text
-ESOP Grant
-    ↓
-Vesting
-    ↓
-Ownership
-    ↓
-Dilution
-    ↓
-Exit Scenarios
-    ↓
-Estimated Tax
-    ↓
-Scenario Comparison
-    ↓
-Reports
-    ↓
-Better Understanding
-````
+**Vesting**  
+Understand how your equity changes over time.
 
-The goal isn't to predict the future.
+**Simulator**  
+Model different assumptions and potential outcomes.
+
+**Dilution**  
+Explore how future ownership changes can affect your potential value.
+
+**Exit Scenarios**  
+See how different company valuations could change the outcome.
+
+**Estimated Tax**  
+Bring estimated tax impact into the scenario.
+
+**Compare**  
+Put different possibilities side by side instead of relying on one number.
+
+**Reports**  
+Turn your analysis into a structured equity report.
+
+**History**  
+Save calculations and revisit previous scenarios.
+
+The bigger idea isn't another ESOP calculator.
+
+It's an **employee-first equity intelligence product**.
 
 > **Don't predict the startup. Understand the possibilities.**
 
-### Product
+<br />
 
-**Simulator** — explore different equity assumptions and potential outcomes.
+<a href="https://esop-value-clarity.vercel.app/">
+<img src="https://img.shields.io/badge/→_Explore_ESOP_Value_Clarity-111827?style=for-the-badge" />
+</a>
 
-**Vesting** — understand what you've earned and what remains.
-
-**Dilution** — model how ownership changes can affect potential value.
-
-**Exit** — explore potential outcomes across different company valuations.
-
-**Tax** — include estimated tax impact in the analysis.
-
-**Compare** — put different scenarios side by side.
-
-**Reports** — turn analysis into a structured equity report.
-
-**History** — save and revisit previous calculations.
-
-### The bigger idea
-
-I don't want ESOP Value Clarity to be another calculator.
-
-I want it to become an **employee-first equity intelligence product**.
-
-A place where someone can take the equity they were given and actually understand what it could mean.
-
-**[Open ESOP Value Clarity →](https://esop-value-clarity.vercel.app/)**
-
-**[View the source →](https://github.com/sidhushesank/esop-value-clarity)**
+<a href="https://github.com/sidhushesank/esop-value-clarity">
+<img src="https://img.shields.io/badge/→_View_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 ---
 
-# Other Things I've Built
+# 🧭 Why I Built It
 
-Not every repository is intended to become a company.
+Equity is often presented as one of the biggest benefits of joining a startup.
 
-Some are experiments.
+But employees are frequently given a number without an intuitive way to understand what that number could mean.
 
-Some are explorations.
+The information exists.
 
-Some become products.
+The formulas exist.
 
-The common thread is the problem behind them.
+The spreadsheets exist.
 
----
+What's missing is the experience.
 
-## 📈 Predictly Markets
+I wanted to build something from the **employee's perspective**.
 
-An AI-assisted market intelligence product exploring how financial information can become easier to understand instead of simply producing more information.
+Something that takes:
 
-> **Better decisions come from better understanding — not more noise.**
+**ESOPs → Vesting → Dilution → Valuation → Exit → Tax → Scenarios**
 
-**[Explore →](https://predictly-markets.vercel.app/)**
+and turns them into something a person can actually reason about.
 
----
+The product doesn't pretend to know the future.
 
-## ⚖️ Ethical Dowry Analyser
+It helps people understand how their potential outcome changes when the assumptions change.
 
-A product exploring how technology can encourage more thoughtful conversations around a deeply rooted social issue.
-
-> **Some problems deserve analysis before assumptions.**
+That's the distinction I care about.
 
 ---
 
-## 💬 Confession
+# 🏗️ Things I've Built
+
+ESOP Value Clarity is my current focus, but it isn't the only problem I've explored.
+
+Some projects started as experiments.
+
+Some became products.
+
+Some taught me what not to build.
+
+I value all of them because each one started with a question.
+
+### 📈 Predictly Markets
+
+An AI-assisted market intelligence platform exploring how financial information can become easier to understand instead of simply producing more noise.
+
+**The question:**  
+> Can software help people understand markets rather than overwhelm them with data?
+
+<a href="https://predictly-markets.vercel.app/">
+<img src="https://img.shields.io/badge/Explore_Product-111827?style=flat-square" />
+</a>
+
+---
+
+### ⚖️ Ethical Dowry Analyser
+
+A product exploring whether software can encourage more thoughtful analysis and conversations around a deeply rooted social issue.
+
+**The question:**  
+> Can technology encourage better thinking around problems we've normalized?
+
+---
+
+### 💬 Confession
 
 An anonymous communication product built around simplicity, privacy, and honest expression.
 
-> **Sometimes people need a safe place to say something — not another social network.**
+**The question:**  
+> What if people sometimes need a safe place to say something rather than another social network?
 
 ---
 
-## 💰 ChitFund OS
+### 💰 ChitFund OS
 
 A product concept focused on modernizing the operational side of traditional chit fund businesses.
 
-> **Established businesses deserve modern tools too.**
+**The question:**  
+> Why should established businesses still have to rely on outdated tools?
 
 ---
 
-# How I Build
+# 🧠 How I Think About Building
 
-I don't start with:
+I don't believe the best products start with a technology stack.
 
-> *"Which framework should I use?"*
+They start with **observation**.
 
-I start with:
+Something doesn't make sense.
 
-> **"What is unnecessarily difficult here?"**
+Someone is doing too much manual work.
 
-Then:
+A process has become unnecessarily complicated.
 
-```text
-Observe
-   ↓
-Question
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Build
-   ↓
-Ship
-   ↓
-Listen
-   ↓
-Improve
-```
+A product solves only half the problem.
 
-I care about the entire loop.
+That's where I become interested.
 
-Not just writing the code.
+My process is usually:
 
-A technically impressive product that nobody needs isn't a successful product.
+**Observe → Question → Understand → Design → Build → Ship → Listen → Improve**
 
-A simple product that removes real friction is.
+The code is only one part of that process.
+
+The real work is figuring out **what deserves to be built in the first place.**
 
 ---
 
@@ -223,117 +244,90 @@ A simple product that removes real friction is.
 
 ### Product > Technology
 
-Technology is the tool.
+Technology is the means.
 
 The problem is the reason.
 
 ### Clarity > Complexity
 
-If software needs a manual to explain why it's useful, something probably went wrong.
+Software should absorb complexity rather than transfer it to the person using it.
 
 ### Ship > Perfect
 
-A product in the hands of a real person teaches more than a perfect idea sitting locally.
+A real user interacting with a product teaches more than another month of building in isolation.
 
 ### Users > Assumptions
 
-The person using the product should eventually prove whether the idea was worth building.
+The market gets the final vote.
 
-### Small teams can build serious products
+### Build Small. Think Big.
 
-You don't always need a large organization to turn an idea into something real.
+A product doesn't need a giant team to solve a meaningful problem.
 
-Sometimes you need a problem worth obsessing over and the willingness to keep shipping.
-
----
-
-# 🧠 Areas I'm Exploring
-
-* Fintech
-* AI Products
-* Product Engineering
-* Startup Software
-* Business Systems
-* Developer Tools
-* Financial Intelligence
-* Human-Centered UX
-* Product Design
-
-I'm especially interested in the space where:
-
-**software × finance × AI × real-world problems**
-
-meet.
+It needs someone willing to care enough to keep improving it.
 
 ---
 
-# 🛠️ Technologies I Use
+# 🔭 What I'm Focused On Now
 
-These are tools, not identity.
+### ESOP Value Clarity
 
-### Languages
+The product is already live.
 
-`Python` · `Java` · `TypeScript` · `JavaScript` · `SQL` · `C++`
+Now I'm focused on the part that matters most after shipping:
 
-### Frontend
+**real users → real feedback → real usage → real improvement**
 
-`React` · `Next.js` · `Tailwind CSS`
+I'm working toward making ESOP Value Clarity genuinely useful for startup employees trying to understand their equity and make better decisions around it.
 
-### Backend
+The long-term vision is bigger than a calculator.
 
-`Spring Boot` · `Flask` · `Node.js` · `REST APIs`
-
-### Data
-
-`PostgreSQL` · `MySQL` · `Supabase`
-
-### Infrastructure
-
-`Git` · `Docker` · `Vercel`
+I want to explore what an **employee-first equity platform** could become.
 
 ---
 
-# 📍 What I'm Doing Now
+# 🧩 What I'm Interested In
 
-### Building ESOP Value Clarity
+**Fintech**  
+**AI Products**  
+**Product Engineering**  
+**Startup Software**  
+**Financial Intelligence**  
+**Business Systems**  
+**Developer Tools**  
+**Human-Centered Product Design**
 
-The product is live.
+Especially where:
 
-Now the interesting part begins.
+**Software × Finance × AI × Real-world Problems**
 
-I'm focused on turning a shipped product into something that real startup employees genuinely want to use when thinking about their equity.
-
-That means:
-
-```text
-Build
-  ↓
-Get it in front of people
-  ↓
-Listen
-  ↓
-Learn
-  ↓
-Improve
-  ↓
-Repeat
-```
-
-I'm particularly interested in learning where employees struggle most when trying to understand startup equity — and what software can realistically do about it.
+intersect.
 
 ---
 
-# 👨‍💻 A Little More About Me
+# ⚙️ Technologies
 
-I'm a Computer Science graduate and an independent product builder based in Hyderabad, India.
+I use technology as a tool, not as an identity.
 
-I enjoy working across the entire product rather than owning only one layer.
+**Languages**
 
-**Idea → Product → Design → Engineering → Deployment → Distribution**
+Python · Java · TypeScript · JavaScript · SQL · C++
 
-I don't want to be remembered for knowing the newest framework.
+**Frontend**
 
-I want to build things people actually find useful.
+React · Next.js · Tailwind CSS
+
+**Backend**
+
+Spring Boot · Flask · Node.js · REST APIs
+
+**Data**
+
+PostgreSQL · MySQL · Supabase
+
+**Infrastructure**
+
+Git · Docker · Vercel
 
 ---
 
@@ -367,7 +361,7 @@ I want to build things people actually find useful.
 
 # 📬 Contact
 
-If you're building something interesting, working around startup equity, fintech, AI, product engineering, or simply want to talk about something I'm building:
+I'm always interested in talking to people building interesting things — especially around **startups, equity, fintech, AI, and product engineering.**
 
 **Email:** [sidhusheshank@gmail.com](mailto:sidhusheshank@gmail.com)
 
@@ -379,13 +373,15 @@ If you're building something interesting, working around startup equity, fintech
 
 **GitHub:** [@sidhushesank](https://github.com/sidhushesank)
 
-**Phone:** `+91 7842638157`
+**Phone:** +91 7842638157
 
 ---
 
 <div align="center">
 
-## I don't want a GitHub full of projects.
+<br />
+
+### I don't want a GitHub full of projects.
 
 ### I want a GitHub that shows what I'm building.
 
@@ -401,9 +397,14 @@ If you're building something interesting, working around startup equity, fintech
 
 <br />
 
-**— Sheshank Sidheshwar**
+**Sheshank Sidheshwar**
 
 *Founder · Product Builder*
 
+<br />
+
+<a href="https://esop-value-clarity.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Currently_Building-ESOP_Value_Clarity-111827?style=for-the-badge" />
+</a>
+
 </div>
-```
